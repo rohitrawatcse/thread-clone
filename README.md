@@ -1,4 +1,4 @@
-# Threads Clone Tutorial
+# Threads Clone Project
 
 ### Built With React, MongoDB, ExpressJS, NodeJS, JWT, Cloudinary
 
