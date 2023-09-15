@@ -4,4 +4,4 @@
 
 # [Screenshots]
 
-![Screenshot of App](https://i.ibb.co/Gs9fWwh/Group-8.png)
+![Screenshot of App](https://github.com/rohitrawatcse/thread-clone/blob/main/screenshots.PNG)
